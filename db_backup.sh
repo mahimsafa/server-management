@@ -62,7 +62,8 @@ DB_USER="myuser2"
 
 # Local directory for temporary storage of dumps:
 # Make sure this directory exists or script can create it; must be writable.
-BACKUP_BASE_DIR="/home/ubuntu/backups/postgres"
+
+BACKUP_BASE_DIR="/tmp/backups/postgres"
 
 
 ##### === NO NEED TO EDIT BELOW THIS LINE === #####
